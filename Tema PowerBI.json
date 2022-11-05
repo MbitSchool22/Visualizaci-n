@@ -1,0 +1,26 @@
+{
+    "name": "Rilo Maquinaria MBIT",
+    "dataColors":["#E66B2D", "#193162", "#907a69", "#869687", "#5d7887", "#f79646", "#77933c", "#000000", "#32a6c5", "#376092", "#808080"],
+    "textClasses": {
+        "callout": {
+            "fontSize": 45,
+            "fontFace": "DIN",
+            "color": "#4B4B4B"
+        },
+        "title": {
+            "fontSize": 12,
+            "fontFace": "DIN",
+            "color": "#4B4B4B"
+        },
+        "header": {
+            "fontSize": 12,
+            "fontFace": "Segoe UI Semibold",
+            "color": "#4B4B4B"
+        },
+        "label": {
+            "fontSize": 8,
+            "fontFace": "Segoe UI",
+            "color": "#4B4B4B"
+        }
+    }
+}
